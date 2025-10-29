@@ -1,37 +1,21 @@
-# 🛍️ Vibe Commerce - Mock E-Commerce Cart
+# Vibe Commerce Shopping Cart
 
-Full-stack shopping cart application built for Vibe Commerce screening assignment.
+Full-stack e-commerce cart built for Vibe Commerce assignment.
 
-## ✨ Features
+## What It Does
 
-- Product listing with 10 mock items
-- Add/Remove items to cart
-- Update quantities in cart
-- Cart total calculation
-- Mock checkout with customer details
-- Order receipt generation
-- Responsive design
-- MongoDB database persistence
-- Error handling
+- Browse 10 products
+- Add/remove items from cart
+- Update quantities
+- Checkout and get order receipt
+- All data saved in MongoDB
 
-## 🛠️ Tech Stack
+## Tech Used
 
-**Frontend:**
-- React.js
-- Axios for API calls
-- CSS3 for styling
+**Frontend:** React, Axios, CSS
+**Backend:** Node.js, Express
+**Database:** MongoDB
 
-**Backend:**
-- Node.js
-- Express.js
-- MongoDB with Mongoose
-- RESTful API architecture
+## How to Run
 
-## 📦 Installation & Setup
-
-### Prerequisites
-- Node.js (v14 or higher)
-- MongoDB installed and running locally
-
-### Backend Setup
-
+### Backend
