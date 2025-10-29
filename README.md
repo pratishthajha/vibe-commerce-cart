@@ -1,21 +1,35 @@
 # Vibe Commerce Shopping Cart
 
-Full-stack e-commerce cart built for Vibe Commerce assignment.
+Full-stack e-commerce shopping cart application built for Vibe Commerce technical assessment.
 
-## What It Does
+## Overview
 
-- Browse 10 products
-- Add/remove items from cart
-- Update quantities
-- Checkout and get order receipt
-- All data saved in MongoDB
+A complete shopping cart solution with product listing, cart management, checkout functionality, and order receipt generation. Built with React, Node.js, Express, and MongoDB.
 
-## Tech Used
+## Features
 
-**Frontend:** React, Axios, CSS
-**Backend:** Node.js, Express
-**Database:** MongoDB
+- Product catalog with 10 mock items
+- Add/remove items from shopping cart
+- Real-time quantity updates
+- Dynamic price calculation
+- Customer checkout form
+- Order receipt with timestamp and order ID
+- MongoDB database integration
+- Responsive design
+- Error handling
 
-## How to Run
+## Technology Stack
 
-### Backend
+**Frontend:**
+- React.js
+- Axios for API calls
+- CSS3
+
+**Backend:**
+- Node.js
+- Express.js
+- MongoDB with Mongoose
+- CORS middleware
+
+## Project Structure
+
