@@ -218,7 +218,7 @@ This project demonstrates proficiency in:
 
 **Pratishtha Jha**
 - Email: pratishtha.jha6@gmail.com
-- GitHub: [Your GitHub Profile Link]
+- GitHub: https://github.com/pratishthajha/vibe-commerce-cart
 
 ## 📅 Project Timeline
 
@@ -242,4 +242,5 @@ Thank you to Vibe Commerce for providing this opportunity to demonstrate full-st
 ---
 
 **Built with ❤️ by Pratishtha Jha | October 2025**
+
 
