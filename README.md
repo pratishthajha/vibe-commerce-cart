@@ -160,7 +160,7 @@ The application will automatically open at `http://localhost:3000`
 ![Checkout](screenshots/checkout.png)
 
 ### Order Receipt
-![Receipt](screenshots/receipt.png)
+![Receipt](screenshots/reciept.png)
 
 ## ✅ Requirements Checklist
 
@@ -242,5 +242,6 @@ Thank you to Vibe Commerce for providing this opportunity to demonstrate full-st
 ---
 
 **Built with ❤️ by Pratishtha Jha | October 2025**
+
 
 
