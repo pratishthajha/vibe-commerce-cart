@@ -1,35 +1,44 @@
-# Vibe Commerce Shopping Cart
+# 🛍️ Vibe Commerce Shopping Cart
 
-Full-stack e-commerce shopping cart application built for Vibe Commerce technical assessment.
+A full-stack e-commerce shopping cart application built for Vibe Commerce technical assessment. Features product listing, cart management, checkout functionality, and MongoDB database integration.
 
-## Overview
+## 📋 Overview
 
-A complete shopping cart solution with product listing, cart management, checkout functionality, and order receipt generation. Built with React, Node.js, Express, and MongoDB.
+This project demonstrates a complete shopping cart solution with all essential e-commerce features including product browsing, cart operations, customer checkout, and order confirmation. Built with modern web technologies following industry best practices.
 
-## Features
+## ✨ Features
 
-- Product catalog with 10 mock items
-- Add/remove items from shopping cart
-- Real-time quantity updates
-- Dynamic price calculation
-- Customer checkout form
-- Order receipt with timestamp and order ID
-- MongoDB database integration
-- Responsive design
-- Error handling
+### Backend Features
+- RESTful API architecture with Express.js
+- MongoDB database with Mongoose ODM
+- Complete CRUD operations for products and cart
+- Mock checkout with receipt generation
+- Error handling and validation
+- CORS-enabled for cross-origin requests
 
-## Technology Stack
+### Frontend Features
+- Responsive product grid with images and pricing
+- Real-time shopping cart with dynamic updates
+- Add, remove, and update item quantities
+- Live total price calculation
+- Customer checkout form with validation
+- Order receipt modal with confirmation details
+- Mobile-responsive design
+- User-friendly notifications
+
+## 🛠️ Tech Stack
 
 **Frontend:**
-- React.js
-- Axios for API calls
-- CSS3
+- React.js (18.x)
+- Axios for API communication
+- CSS3 for styling
+- React Hooks (useState, useEffect)
 
 **Backend:**
 - Node.js
-- Express.js
+- Express.js (4.x)
 - MongoDB with Mongoose
 - CORS middleware
 
-## Project Structure
+## 📁 Project Structure
 
